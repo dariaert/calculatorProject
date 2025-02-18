@@ -1,7 +1,7 @@
 package test;
 
-import main.Divide;
-import main.Operation;
+import main.java.operations.Divide;
+import main.java.core.Operation;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

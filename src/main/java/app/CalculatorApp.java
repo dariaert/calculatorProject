@@ -1,8 +1,17 @@
-package main;
+package main.java.app;
+
+import main.java.core.Operation;
+import main.java.operations.Add;
+import main.java.operations.Divide;
+import main.java.operations.Multiply;
+import main.java.operations.Subtract;
 
 import java.util.Scanner;
 
-public class Main {
+public class CalculatorApp {
+
+
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

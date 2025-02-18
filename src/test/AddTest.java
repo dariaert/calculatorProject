@@ -1,7 +1,7 @@
 package test;
 
-import main.Operation;
-import main.Add;
+import main.java.core.Operation;
+import main.java.operations.Add;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
